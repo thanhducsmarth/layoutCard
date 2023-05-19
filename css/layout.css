@@ -82,5 +82,8 @@ button:hover {
     cursor: pointer;
 }
 
+audio {
+    display: none;
+}
 
 
