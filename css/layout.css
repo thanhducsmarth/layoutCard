@@ -8,7 +8,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 65%;
+    height: 60%;
 }
 
 .body_button {
@@ -55,5 +55,40 @@ button:hover {
     transition: 1s ease;
     font-size: 18px;
 }
+
+/* three_call */
+
+/* .three_call {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.body_call {
+    float: right;
+    line-height: 40px;
+    text-align: center;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.fa-brands.fa-facebook-messenger {
+    color: #3550d9;
+}
+
+.fa-solid.fa-phone {
+    color:#3d9736;
+}
+
+.circle {
+    background-color: #FFFFFF;
+    margin: 4px;
+    border-radius: 50%;
+}
+
+.click {
+    cursor: pointer;
+}
+
 
 
