@@ -8,7 +8,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 60%;
+    height: 55%;
 }
 
 .body_button {
@@ -19,6 +19,7 @@
 button:active {
     background-color: #a0a0a0;
     transition: 0.5s ease;
+    animation:infinite;
 }
 
 button {
@@ -82,8 +83,8 @@ button:hover {
     cursor: pointer;
 }
 
-audio {
+/* audio {
     display: none;
-}
+} */
 
 
