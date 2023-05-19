@@ -56,14 +56,6 @@ button:hover {
     font-size: 18px;
 }
 
-/* three_call */
-
-/* .three_call {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
-
 .body_call {
     float: right;
     line-height: 40px;
